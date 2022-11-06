@@ -1,0 +1,4 @@
+#Fri Jun 24 20:10:42 IST 2022
+base.0=/Volumes/Elements/ambi/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

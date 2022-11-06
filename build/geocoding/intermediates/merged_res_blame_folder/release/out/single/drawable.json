@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Elements/ambi/build/geocoding/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/Elements/ambi/build/geocoding/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Elements/ambi/build/geocoding/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Elements/ambi/build/geocoding/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/drawable/notification_bg.xml"
+    }
+]

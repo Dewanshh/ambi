@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Elements/ambi/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Elements/ambi/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Elements/ambi/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Elements/ambi/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

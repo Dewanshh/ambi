@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Elements 1/pro/ambi/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/4819a1c7c6cc0871f3b9fefb4c01501f/core-1.1.0-rc01/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "867",
+                        "endColumns": "202",
+                        "endOffsets": "1065"
+                    }
+                },
+                {
+                    "source": "/Users/dewansh/.gradle/caches/transforms-2/files-2.1/ca1cba421eec5614940267e9ef797be0/browser-1.4.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,255,454,665",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "250,449,660,862"
+                    }
+                }
+            ]
+        }
+    ]
+}
